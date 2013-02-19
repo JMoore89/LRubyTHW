@@ -1,7 +1,7 @@
 # Here's some new stranger stuff, rember type it exactly.
 
 days = "Mon Tue Wed Thur Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\Jul\nAug"
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 puts "Here are the days: ", days
 puts "Here are the months: ", months
